@@ -9,6 +9,10 @@
 
 设计展示地址：www.ygnili.com 
 
+## 项目技术栈
+
+vue-cli + vue-router + vuex + better-scroll + axios + styuls + iconfont
+
 ## 项目运行
 
 **本地运行**
