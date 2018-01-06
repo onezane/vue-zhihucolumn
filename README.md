@@ -2,7 +2,7 @@
 
 # vue-zhihucolumn 
 
-![![](https://img.shields.io/badge/zcool-%E6%B2%B9%E6%9F%91%E9%B8%9F%E6%A2%A8-yellow.svg)](http://www.zcool.com.cn/u/15243725)
+[![](https://img.shields.io/badge/zcool-%E6%B2%B9%E6%9F%91%E9%B8%9F%E6%A2%A8-yellow.svg)](http://www.zcool.com.cn/u/15243725)
 
 > A Vue.js project
 
