@@ -29,11 +29,16 @@ npm run dev
 > vue-zhihucolumn
 >> build
 >>> build.js
+
 >>> check-versions.js
 >> config
+
 >> src
+
 >> static
->> static                           // 静态文件，比如一些图片，json数据等
+
+>> static                       // 静态文件，比如一些图片，json数据等
+
 >> .babelrc                         // ES6语法编译配置
 >> .editorconfig                    // 定义代码格式
 >> .eslintignore                    // ESLint 检查忽略的文件
