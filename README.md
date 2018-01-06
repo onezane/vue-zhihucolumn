@@ -5,6 +5,7 @@
 > 一个基于Vue.js开发的知乎专栏展示项目
 
 > 项目展示地址：www.ygnili.com
+> 设计展示地址：www.ygnili.com 
 
 ## Build Setup
 
