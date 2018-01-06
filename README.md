@@ -3,11 +3,11 @@
 # vue-zhihucolumn 
 [![](https://img.shields.io/badge/ZCOOL-%E6%B2%B9%E6%9F%91%E9%B8%9F%E6%A2%A8-yellow.svg)](http://www.zcool.com.cn/u/15243725) [![](https://img.shields.io/badge/WeChat-JASON%E6%B2%B9%E6%9F%91%E9%B8%9F%E6%A2%A8-green.svg)](https://www.jianshu.com/p/4f49400c4c91)
 
-> 一个基于Vue.js开发的知乎专栏WebApp
+一个基于Vue.js开发的知乎专栏WebApp
 
-> 项目展示地址：www.ygnili.com
+项目展示地址：www.ygnili.com
 
-> 设计展示地址：www.ygnili.com 
+设计展示地址：www.ygnili.com 
 
 ## 项目运行
 
@@ -20,16 +20,7 @@ npm install
 
 # 运行项目
 npm run dev
-
-
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-在浏览器输入 [localhost:8080](http://localhost:8080)
+在浏览器输入 [localhost:8080](http://localhost:8080)，
 按F12打开浏览器手机模拟器，刷新访问即可
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
