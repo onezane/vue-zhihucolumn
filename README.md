@@ -25,11 +25,16 @@ npm run dev
 按F12打开浏览器手机模拟器，刷新访问即可
 
 ## 项目结构
-
-> vue-zhihucolumn
->> build
->>> build.js
-
+```
+vue-zhihucolumn
+┣━━build                                // 项目构建相关代码
+┃  ┣━━build.js
+┃  ┣━━check-versions.js
+┃  ┣━━utils.js
+┃  ┣━━vue-loader.conf.js
+┃  ┣━━webpack.base.conf.js
+┃  ┣━━webpack.dev.conf.js
+┃  ┣━━webpack.prod.conf.js
 >>> check-versions.js
 >> config
 
@@ -50,4 +55,4 @@ npm run dev
 >> package-lock.json
 >> package.json                     // 项目基本信息
 >> README.md                        // 项目说明
-
+```
