@@ -13,6 +13,10 @@
 
 [vue-cli](https://github.com/vuejs/vue-cli) + [vue-router](https://github.com/vuejs/vue-router) + [vuex](https://github.com/vuejs/vuex) + [better-scroll](https://github.com/ustbhuangyi/better-scroll) + [axios](https://github.com/axios/axios) + [stylus](http://www.zhangxinxu.com/jq/stylus/) + [iconfont](http://iconfont.cn/)
 
+## 项目预览
+
+![知乎专栏录屏动画3.gif](http://upload-images.jianshu.io/upload_images/1158621-19a79cc8ff660878.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 项目运行
 
 **本地运行**
