@@ -78,6 +78,7 @@ vue-zhihucolumn
 ┣━━index.html                           // 入口页面
 ┣━━package-lock.json                    // 记录node_modules文件夹的结构树和模块的下载地址
 ┣━━package.json                         // 项目基本信息
+┣━━prod.server.js                       // 配置node服务
 ┗━━README.md                            // 项目说明
 ```
 
