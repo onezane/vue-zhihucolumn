@@ -11,7 +11,7 @@
 
 ## 项目技术栈
 
-vue-cli + vue-router + vuex + better-scroll + axios + styuls + iconfont
+[vue-cli](https://github.com/vuejs/vue-cli) + [vue-router](https://github.com/vuejs/vue-router) + [vuex](https://github.com/vuejs/vuex) + [better-scroll](https://github.com/ustbhuangyi/better-scroll) + [axios](https://github.com/axios/axios) + [stylus](http://www.zhangxinxu.com/jq/stylus/) + [iconfont](http://iconfont.cn/)
 
 ## 项目运行
 
