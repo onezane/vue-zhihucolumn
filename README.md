@@ -34,29 +34,29 @@ vue-zhihucolumn
 ┃  ┣━━vue-loader.conf.js                // 配置了css加载器
 ┃  ┣━━webpack.base.conf.js              // webpack基础配置
 ┃  ┣━━webpack.dev.conf.js               // webpack开发环境配置
-┃  ┗━━webpack.prod.conf.js              // 
-┣━━config                               // 
-┃  ┣━━dev.env.js                        // 
-┃  ┣━━index.js                          // 
-┃  ┗━━prod.env.js                       // 
-┣━━src                                  // 
-┃  ┣━api                                // 
-┃  ┣━base                               // 
-┃  ┣━common                             //
-┃  ┣━components                         //
-┃  ┣━router                             //
-┃  ┣━store                              // 
-┃  ┣━App.vue                            //
-┃  ┗━main.js                            //
-┣━━static                               //
-┣━━.babelrc                             //
-┣━━.editorconfig                        // 
-┣━━.eslintignore                        //
-┣━━.eslistrc.js                         //
-┣━━.gitignore                           //
-┣━━.postcssrc                           //
-┣━━index.html                           //
-┣━━package-lock.json                    //
-┣━━package.json                         //
-┗━━README.md                            //
+┃  ┗━━webpack.prod.conf.js              // webpack生产环境配置
+┣━━config                               // 项目开发环境配置
+┃  ┣━━dev.env.js                        // 开发环境变量
+┃  ┣━━index.js                          // 项目一些配置变量
+┃  ┗━━prod.env.js                       // 生产环境变量
+┣━━src                                  // 源码目录
+┃  ┣━api                                // 接口数据请求
+┃  ┣━base                               // vue基础组件
+┃  ┣━common                             // 公共资源文件
+┃  ┣━components                         // vue公共业务组件
+┃  ┣━router                             // vue路由配置
+┃  ┣━store                              // vuex状态管理
+┃  ┣━App.vue                            // 页面入口文件
+┃  ┗━main.js                            // 程序入口文件，加载各种公共组件
+┣━━static                               // 静态文件夹
+┣━━.babelrc                             // ES6语法编译配置
+┣━━.editorconfig                        // 定义代码格式
+┣━━.eslintignore                        // ESLint检查忽略的文件
+┣━━.eslistrc.js                         // ESLint文件
+┣━━.gitignore                           // git上传需要忽略的文件格式
+┣━━.postcssrc.js                        // postcss配置文件
+┣━━index.html                           // 入口页面
+┣━━package-lock.json                    // 记录node_modules文件夹的结构树和模块的下载地址
+┣━━package.json                         // 项目基本信息
+┗━━README.md                            // 项目说明
 ```
