@@ -80,3 +80,13 @@ vue-zhihucolumn
 ┣━━package.json                         // 项目基本信息
 ┗━━README.md                            // 项目说明
 ```
+
+## 结语
+
+* 学习Vue.js后练手的第一个项目，主要功能是对知乎专栏的展示，接口数据仅做学习使用；
+* 通过以后深入地学习再进行功能的更新和代码的优化，有纰漏的地方请多多指导；
+* 欢迎 Star 本项目。
+
+
+## License
+[MIT](https://github.com/GaryChangCN/zhihu-daily-byVuejs/blob/master/LICENSE)
