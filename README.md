@@ -15,7 +15,7 @@
 
 ## 项目预览
 
-![知乎专栏录屏动画2.gif](http://upload-images.jianshu.io/upload_images/1158621-1b287b0f71c76837.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![知乎专栏录屏动画.gif](http://upload-images.jianshu.io/upload_images/1158621-1b287b0f71c76837.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 项目运行
 
