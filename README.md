@@ -24,11 +24,13 @@ npm install
 npm run dev
 ```
 在浏览器输入 [localhost:8080](http://localhost:8080)，
-按F12打开浏览器手机模拟器，刷新访问即可
+按F12打开浏览器手机模拟器，刷新即可访问
 
 **手机运行**
 
 ![知乎专栏项目二维码](http://upload-images.jianshu.io/upload_images/1158621-c438f6f9f4ae3ad6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
+
+手机扫一扫二维码即可访问
 
 ## 项目流程
 
