@@ -24,6 +24,10 @@ npm run dev
 在浏览器输入 [localhost:8080](http://localhost:8080)，
 按F12打开浏览器手机模拟器，刷新访问即可
 
+## 项目流程
+
+![知乎专栏流程图](http://on-img.com/chart_image/5a50cba8e4b010a6e7052c4a.png)
+
 ## 项目结构
 ```
 vue-zhihucolumn
