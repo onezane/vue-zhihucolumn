@@ -13,7 +13,7 @@
         </li>
         <li class="t">源码</li>
         <li>
-          <a href="https://github.com/jasonwongui">
+          <a href="https://github.com/jasonwongui/vue-zhihucolumn">
             <div><i class="iconfont icon-github"></i></div>
             <div>jasonwongui</div>
           </a>
