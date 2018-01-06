@@ -26,5 +26,23 @@ npm run dev
 
 ## 项目结构
 ```
-
+> vue-zhihucolumn
+>> build
+>>> build.js
+>>> check-versions.js
+>> config
+>> src
+>> static
+>> static                           // 静态文件，比如一些图片，json数据等
+>> .babelrc                         // ES6语法编译配置
+>> .editorconfig                    // 定义代码格式
+>> .eslintignore                    // ESLint 检查忽略的文件
+>> .eslistrc.js                     // ESLint 文件，如需更改规则则在此文件添加
+>> .gitignore                       // git 上传需要忽略的文件
+>> .postcssrc
+>> index.html                       // 入口页面
+>> README.md                        // 项目说明
+>> package-lock.json
+>> package.json                     // 项目基本信息
+>> README.md                        // 项目说明
 ```
