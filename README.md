@@ -1,6 +1,8 @@
 ![zhihu-columns.png](http://upload-images.jianshu.io/upload_images/1158621-c2895c861d876ba8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# vue-zhihucolumn ![![](https://img.shields.io/badge/zcool-%E6%B2%B9%E6%9F%91%E9%B8%9F%E6%A2%A8-yellow.svg)](http://www.zcool.com.cn/u/15243725)
+# vue-zhihucolumn 
+
+![![](https://img.shields.io/badge/zcool-%E6%B2%B9%E6%9F%91%E9%B8%9F%E6%A2%A8-yellow.svg)](http://www.zcool.com.cn/u/15243725)
 
 > A Vue.js project
 
