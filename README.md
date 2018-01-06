@@ -34,8 +34,8 @@ vue-zhihucolumn
 ┃  ┣━━vue-loader.conf.js
 ┃  ┣━━webpack.base.conf.js
 ┃  ┣━━webpack.dev.conf.js
-┃  ┣━━webpack.prod.conf.js
->>> check-versions.js
+┃  ┗━━webpack.prod.conf.js
+┣━━config
 >> config
 
 >> src
