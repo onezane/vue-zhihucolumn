@@ -9,7 +9,7 @@ var app = express()
 
 var apiRoutes = express.Router()
 
-app.get('/api/getFind', function(req, res) {
+apiRoutes.get('/getFind', function(req, res) {
   const url = 'https://zhuanlan.zhihu.com/api/recommendations/posts'
   axios.get(url, {
     headers: {
@@ -24,7 +24,7 @@ app.get('/api/getFind', function(req, res) {
   })
 })
 
-app.get('/api/getColumn', function(req, res) {
+apiRoutes.get('/getColumn', function(req, res) {
   const url = 'https://zhuanlan.zhihu.com/api/recommendations/columns'
   axios.get(url, {
     headers: {
@@ -39,7 +39,7 @@ app.get('/api/getColumn', function(req, res) {
   })
 })
 
-app.get('/api/getColumnDetail', function(req, res) {
+apiRoutes.get('/getColumnDetail', function(req, res) {
   axios({
     method: 'get',
     url: `https://zhuanlan.zhihu.com/api/columns/${req.query.urlid}/posts`,
