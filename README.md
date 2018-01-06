@@ -9,14 +9,19 @@
 
 > 设计展示地址：www.ygnili.com 
 
-## Build Setup
+## 项目运行
 
 ``` bash
-# install dependencies
+# 克隆项目
+git clone https://github.com/jasonwongui/vue-zhihucolumn.git
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行项目
 npm run dev
+
+
 
 # build for production with minification
 npm run build
@@ -24,5 +29,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+在浏览器输入 [localhost:8080](http://localhost:8080)
+按F12打开浏览器手机模拟器，刷新访问即可
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
