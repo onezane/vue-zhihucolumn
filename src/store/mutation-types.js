@@ -1,0 +1,4 @@
+export const SET_FIND = 'SET_FIND'
+export const SET_COLUMN = 'SET_COLUMN'
+export const SET_SHOWARTICLE = 'SET_SHOWARTICLE'
+export const SET_ARTICLECONTENT = 'SET_ARTICLECONTENT'
