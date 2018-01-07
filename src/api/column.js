@@ -2,6 +2,7 @@ import axios from 'axios'
 
 export function getColumn() {
   const url = '/api/getColumn'
+  const data = {
     limit: 20,
     offset: 6,
     seed: 7
