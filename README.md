@@ -7,7 +7,7 @@
 
 项目展示地址：www.ygnili.com
 
-设计展示地址：www.ygnili.com 
+设计展示地址：http://www.zcool.com.cn/work/ZMjU2NDgwMzI=.html 
 
 ## 项目技术栈
 
