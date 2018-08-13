@@ -5,7 +5,7 @@
 
 一个基于Vue.js(v2.5.2)开发的知乎专栏WebApp
 
-项目展示地址：www.ygnili.com
+项目展示地址：---
 
 设计展示地址：http://www.zcool.com.cn/work/ZMjU2NDgwMzI=.html 
 
